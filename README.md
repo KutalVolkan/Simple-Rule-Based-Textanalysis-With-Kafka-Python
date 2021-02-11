@@ -1,4 +1,4 @@
-# Bakdata_Demo
+# Demo
 Rule-based text analysis of doctors letters using kafka-python
 
 ## Setting Up And Running
